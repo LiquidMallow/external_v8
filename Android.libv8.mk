@@ -94,6 +94,7 @@ LOCAL_CFLAGS += \
 	-Wno-format \
 	-Wno-unused-parameter \
 	-Wno-inconsistent-missing-override \
+	-Wno-undefined-var-template \
 	-fno-exceptions \
 	-fvisibility=hidden \
 	-DENABLE_DEBUGGER_SUPPORT \
